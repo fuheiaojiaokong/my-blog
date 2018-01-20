@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d03d46d7-4a58-4fa9-a3e0-f12fc573821b" name="Default" comment="">
+    <list default="true" id="d03d46d7-4a58-4fa9-a3e0-f12fc573821b" name="Default" comment="change 11.25&#10;&#10;Signed-off-by: baoyue &lt;574865755@qq.com&gt;&#10;&#10;change 1.20&#10;&#10;Signed-off-by: baoyue &lt;574865755@qq.com&gt;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516451564181</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change 11.25&#10;&#10;Signed-off-by: baoyue &lt;574865755@qq.com&gt;&#10;&#10;change 1.20&#10;&#10;Signed-off-by: baoyue &lt;574865755@qq.com&gt;">
+      <created>1516451586978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1516451586978</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
